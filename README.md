@@ -1,2 +1,2 @@
-# Crosscheck
-An app for checking cross-interactions with medications
+# Crosscheck Website
+Website source code for Crosscheck
