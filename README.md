@@ -1,5 +1,5 @@
 # Crosscheck
-An app for checking cross-interactions with medications. This is intended to be the Flutter port of Crosscheck to deliver a responsive native mobile app experience, with the React-Native part of the app being eventually depreciated for an Electron-based desktop app since Flutter does not currently support desktop OSs and web (as of writing).
+An app for checking cross-interactions with medications. This is intended to be the Flutter port of Crosscheck to deliver a responsive native mobile app experience (plus Google Fuchsia when that's eventually released), with the React-Native part of the app being eventually depreciated for an Electron-based desktop app since Flutter does not currently support desktop OSs and web (as of writing).
 
 ## Planned features:
 
